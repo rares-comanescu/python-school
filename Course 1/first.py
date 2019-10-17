@@ -1,0 +1,1 @@
+print("There is a \"string\" inside a string")
